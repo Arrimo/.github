@@ -1,6 +1,6 @@
 # Arrimo Digital
 
-Arrimo.tech is dedicated to enhancing and streamlining business processes through advanced technological solutions. Our platform specializes in offering innovative software and services designed to:
+Arrimo Digital is dedicated to enhancing and streamlining business processes through advanced technological solutions. Our platform specializes in offering innovative software and services designed to:
 
 - **Optimize Operations**: Tailored solutions to improve the efficiency and effectiveness of your business operations.
 - **Drive Growth**: Cutting-edge technology that supports and accelerates your business growth.
