@@ -8,7 +8,7 @@ Arrimo Digital is dedicated to enhancing and streamlining business processes thr
 
 ## Our Mission
 
-At Arrimo.tech, our mission is to leverage technology to help businesses thrive in a rapidly evolving digital landscape. We understand the unique challenges that enterprises face and provide customized solutions to meet those needs.
+At Arrimo Digital, our mission is to leverage technology to help businesses thrive in a rapidly evolving digital landscape. We understand the unique challenges that enterprises face and provide customized solutions to meet those needs.
 
 ## Our Services
 
