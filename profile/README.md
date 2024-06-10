@@ -1,4 +1,4 @@
-# Arrimo.tech
+# Arrimo Digital
 
 Arrimo.tech is dedicated to enhancing and streamlining business processes through advanced technological solutions. Our platform specializes in offering innovative software and services designed to:
 
