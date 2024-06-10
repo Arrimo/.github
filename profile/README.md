@@ -17,7 +17,7 @@ At Arrimo.tech, our mission is to leverage technology to help businesses thrive 
 - **Data Analytics**: Leveraging data to provide insights that drive informed decision-making.
 - **IT Consulting**: Expert advice to help you navigate the complexities of the digital world.
 
-## Why Choose Arrimo.tech?
+## Why Choose Arrimo Digital?
 
 - **Innovation**: We stay at the forefront of technology trends to bring you the best solutions.
 - **Customization**: Our services are tailored to fit your unique business needs.
